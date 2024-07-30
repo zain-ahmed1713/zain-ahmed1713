@@ -7,7 +7,7 @@ This is Zain Ahmed from Lahore, Pakistan. I'm a Highly motivated Frontend Develo
 
 - 🌱 I’m currently learning ```Next.js```
 - 👯 I’m looking to collaborate on ```Frontend Web Projects```
-<!-- - 🔭 I’m currently working on [```PocketBridge```](https://github.com/zainahmed1713/pocketbridge) -->
+- 🔭 I’m currently working on [```PocketBridge```](https://github.com/zain-ahmed1713/pocketbridge)
 
 
 <h2><i>🗨️ Connect With Me</i></h2>
