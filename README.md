@@ -1,13 +1,12 @@
 ### Hi there 👋
-This is Zain Ahmed from Lahore, Pakistan. I'm a Highly motivated Frontend Developer with a passion for crafting user-centric web experiences using React.js. Adept at leveraging modern development practices and eager to contribute to a fast-paced environment. Continuously learning and expanding the skill set to embrace full-stack development in the future.
-
+Fullstack Developer with hands-on experience designing and implementing dynamic, user-friendly interfaces and scalable backend systems for an auction platform using NestJS, React, and Next.js. A recent Bachelor’s in Information Technology graduate, I excel in fast-paced environments and have a passion for problem-solving through clean, efficient code.
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=zain-ahmed1713" alt="Profile Views"/>
 </div>
 
-- 🌱 I’m currently learning ```Next.js```
-- 👯 I’m looking to collaborate on ```Frontend Web Projects```
-- 🔭 I’m currently working on [```PocketBridge```](https://github.com/zain-ahmed1713/pocketbridge)
+- 🌱 I’m currently learning ```NestJS```
+- 👯 I’m looking to collaborate on ```Full Stack Web Projects```
+<!-- - 🔭 I’m currently working on [```PocketBridge```](https://github.com/zain-ahmed1713/pocketbridge) -->
 
 
 <h2><i>🗨️ Connect With Me</i></h2>
