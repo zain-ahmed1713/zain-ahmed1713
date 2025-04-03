@@ -1,5 +1,7 @@
 ### Hi there 👋
-Fullstack Developer with hands-on experience designing and implementing dynamic, user-friendly interfaces and scalable backend systems for an auction platform using NestJS, React, and Next.js. A recent Bachelor’s in Information Technology graduate, I excel in fast-paced environments and have a passion for problem-solving through clean, efficient code.
+I am Zain Ahmed from Lahore,Pakistan and I'm currently serving as a Backend Developer at Analytiverse, specializing in building robust, scalable, and efficient backend systems. Passionate about clean architecture, database optimization, and API development with a strong foundation in Express.js, NestJS, and Node.js.
+
+A recent Bachelor's in Information Technology graduate, i excel in fast-paced environments and have a passion for problem-solving through clean, efficient code
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=zain-ahmed1713" alt="Profile Views"/>
 </div>
