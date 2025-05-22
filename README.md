@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Zain Ahmed from Lahore,Pakistan and I'm currently serving as a Backend Developer at Analytiverse, specializing in building robust, scalable, and efficient backend systems. Passionate about clean architecture, database optimization, and API development with a strong foundation in Express.js, NestJS, and Node.js.
+I am Zain Ahmed from Lahore,Pakistan and I'm currently working as a Full Stack Developer at Exec9, specializing in building robust, scalable, and efficient software systems. Passionate about clean architecture, database optimization, and API development with a strong foundation in Express.js, NestJS, Next.js, and Node.js.
 
 A recent Bachelor's in Information Technology graduate, i excel in fast-paced environments and have a passion for problem-solving through clean, efficient code
 <div align="center">
